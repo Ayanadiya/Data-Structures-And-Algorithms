@@ -4,5 +4,10 @@ Welcome to the World of Data Structures
 
   Linear Data Structures
 
-  Array
-  String
+  Arrays
+  Strings
+  Stacks
+  Queues
+  Linked lists
+  Trees
+  Graphs
