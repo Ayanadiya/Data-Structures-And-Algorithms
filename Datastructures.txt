@@ -1,0 +1,8 @@
+Welcome to the World of Data Structures
+
+  We are here to learn about data structures. Lets dive in to it!
+
+  Linear Data Structures
+
+  Array
+  String
