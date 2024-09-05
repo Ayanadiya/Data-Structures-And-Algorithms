@@ -17,3 +17,5 @@ Sets
 Map
 
 Done
+
+Completed
