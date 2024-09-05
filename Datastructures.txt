@@ -12,5 +12,10 @@ Welcome to the World of Data Structures
 
 
 
+Hash Tables
+Sets
+Map
 
-Completed;
+Done
+
+Completed
